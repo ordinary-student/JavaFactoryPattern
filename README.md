@@ -1,2 +1,2 @@
-# JavaFactoryPattern
- Java工厂模式
+# JavaFactoryPattern  
+ Java工厂模式样例 
